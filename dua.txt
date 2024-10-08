@@ -4,6 +4,7 @@ BSH means Book starts here
 E meaning
 F fatiha
 I instruction
+L link
 S salawat
 SF salawat and fatiha
 
@@ -27,8 +28,7 @@ the following zikr:
 
 Ya Hadi Ya Haqq Ya Latif
 
-For more explanation, follow the link below.
-
+L:
 https://bit.ly/PositivityPrayersWithShaykhTaner
 
 I:

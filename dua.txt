@@ -12,9 +12,11 @@ F fatiha
 I instruction
 L link
 P paragraph
+QAK kursi
 QF falaq
 QI ikhlas
 QN naas
+QY yasin
 S salawat
 SF salawat and fatiha
 ST subtitle

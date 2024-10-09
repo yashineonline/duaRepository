@@ -1,28 +1,43 @@
+DUA BOOK APP DATA SHEET
+
+DUA, THE WAY OF SUPPLICATION
+Shaykh Taner Vargonen Ansari
+
 Notes:
 A Arabic
 BSH means Book starts here
+C chapter
 E meaning
 F fatiha
 I instruction
 L link
+P paragraph
+QF falaq
+QI ikhlas
+QN naas
 S salawat
 SF salawat and fatiha
+ST subtitle
+T translation
+Z zikr
 
- to make c chapter st subtitle z zikr, and re-organize, pp tp gone to put again and commit with each change
+to make c chapter st subtitle z zikr, and re-organize, pp tp gone to put again and commit with each change
 re-add qi qf qn ikhlas falaq naas
 translation too all gone because laptop switched off did not commit 
 
 BSH:
-POSITIVITY PRAYERS
 
+C: POSITIVITY PRAYERS
+
+P: 
 The Positivity Prayers is a summary of what we 
 need daily at all levels. We should read this for 
 ourselves, our family and children, or anyone that 
 we need to pray for.
 
-P:
-Procedure of reciting the Positivity Prayers
+ST: Procedure of reciting the Positivity Prayers
 
+P: 
 We should make our connection to our heart. 
 The biggest blessing from Allah is guidance. So, 
 first of all we should pray for ourselves and our 
